@@ -1,7 +1,7 @@
 ## Hi, I am Daniils 👋 
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working as Software Developer at [AOX Trade](https://aoxtrade.eu/)
+- 🔭 I’m currently a **Software Developer** at AOX Trade, focusing on **backend systems** and **data-driven tools** for the European electricity market.
 - 🧠 Fun Fact: Still struggle to center a div :)
 - 🎯 Hobbies:  🎨 Painting 🎾 Tennis 📚 Studying 🏒 Hockey 🛠️ Craftsmanship
 - 💬 Ask me about: software development or what’s in my dotfiles
