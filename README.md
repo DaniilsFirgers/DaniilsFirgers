@@ -6,9 +6,8 @@
 - 🧠 Fun Fact: Still struggle to center a div...
 - 🎯 Hobbies: 🎨 Painting 🎾 Tennis 📚 Studying 🏒 Hockey 🛠️ Craftsmanship
 - 💬 Ask me about: software development or what’s in my dotfiles
-- 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/daniils-firgers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox)](https://firger.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dfirger@gmail.com)
 
