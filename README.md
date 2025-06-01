@@ -3,8 +3,8 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working as Software Developer at [AOX Trade](https://aoxtrade.eu/)
 - 🛠️ Tech Stack: TypeScript, Svelte, Node Js, Golang, Rust, Mongo Db, Docker, Nginx
-- 🧠 Fun Fact: Still struggle to center a div...
-- 🎯 Hobbies: 🎨 Painting 🎾 Tennis 📚 Studying 🏒 Hockey 🛠️ Craftsmanship
+- 🧠 Fun Fact: Still struggle to center a div :)
+- 🎯 Hobbies:  🎨 Painting 🎾 Tennis 📚 Studying 🏒 Hockey 🛠️ Craftsmanship
 - 💬 Ask me about: software development or what’s in my dotfiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/daniils-firgers)
